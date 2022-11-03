@@ -1,2 +1,3 @@
 # System Information Activities
-Simple Tasks in C/C++ at System Information Graduation - UFMG
+Weekly Tasks in C/C++ during the System Information Graduation at the Federal University of Minas Gerais(UFMG)
+
