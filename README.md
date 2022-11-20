@@ -1,4 +1,4 @@
-# System Information Activities
+# System Information Activities - First Period
 Weekly tasks in C/C++ during the System Information Graduation at the Federal University of Minas Gerais(UFMG).
 <h3> Activity 1 - Basic Estructures</h3>
 <p> Solves simple equations and receives and performs operations on values given by the user.</p>
